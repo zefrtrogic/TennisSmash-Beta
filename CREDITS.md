@@ -74,9 +74,6 @@ The sounds in `Assets/_Project/Audio` are cut and cleaned from these recordings:
 | Park: wind in the leaves | Leaves_Rustling_Edited | AmberdeMeillon | https://freesound.org/s/443065/ |
 | City: the traffic far below | Ambience_Berlin_Rooftop.wav | danner | https://freesound.org/s/426894/ |
 | Mountain top: the wind | mountain wind heavy strong gusts Swiss Alps.flac | kyles | https://freesound.org/s/454092/ |
-| Shoe squeaks (the older builds) | R18-60 Shoes Squeak on Athletic Court | craigsmith | https://freesound.org/s/479963/ |
-| Stadium: the crowd talking (the older builds) | Busy Room Ambience / People talking in background #2 | Breviceps | https://freesound.org/s/465699/ |
-| Stadium: applause after a point (the older builds) | R19-34 Golf Crowd Applauds | craigsmith | https://freesound.org/s/479967/ |
 | Menu click | Interface Sounds (click_002), from kenney.nl | Kenney | https://kenney.nl/assets/interface-sounds |
 
 The umpire's and the line judges' voices are made with Windows' built-in text-to-speech (Microsoft Zira and Microsoft David), with a light public-address effect and the stadium's echo added (the tiebreak scores, the names alone and "Break point", "Match point" and "Tiebreak" were added the same way). The calls with your name are made the same way on your own computer while you play (on a Mac, with the Mac's own voice). Microsoft's terms for its voices apply; check them before selling the game.

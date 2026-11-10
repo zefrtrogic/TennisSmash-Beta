@@ -6,9 +6,9 @@ This page holds its beta downloads; the game's code isn't here.
 ## Download
 
 - [Windows](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Windows.zip)
-  (170 MB): Windows 10 or 11, 64-bit.
+  (176 MB): Windows 10 or 11, 64-bit.
 - [Mac](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Mac.zip)
-  (74 MB): macOS 12 or later, Apple silicon or Intel. Nobody has tried this build on a real Mac yet, so if it
+  (176 MB): macOS 12 or later, Apple silicon or Intel. Nobody has tried this build on a real Mac yet, so if it
   doesn't open or something looks wrong, please say so (see below).
 
 Unzip it and play. There's nothing to install.
@@ -29,7 +29,6 @@ Open an [issue](https://github.com/zefrtrogic/TennisSmash-Beta/issues) and say w
 
 ## This beta
 
-Version 0.1.0. The Windows build is from November 2, 2026. The Mac build is older, from October 9, 2026, so it
-doesn't have everything the Windows one has yet.
+Version 0.1.0. Both builds were made on November 10, 2026, from the same game.
 
 The sounds, textures, fonts and clothing come from other people, and are credited in [CREDITS.md](CREDITS.md).
