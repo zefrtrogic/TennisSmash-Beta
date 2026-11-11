@@ -15,6 +15,14 @@ This page holds its beta downloads; the game's code isn't here.
 On Windows, the installer puts the game in the Start menu, can add a desktop shortcut, and needs no administrator.
 Remove it like any other app, in Settings > Apps. Running a newer installer updates the game in place.
 
+## Updates
+
+From 0.1.1 on, the game tells you on its main menu when a new version is out. If you installed it with
+`TennisSmash-Setup.exe`, click Update now: it downloads the new version, closes, updates and opens again. With the
+zip or on a Mac, the button opens the downloads. Your progress always stays: it's saved outside the game's folder.
+
+Coming from 0.1.0? It can't update itself yet, so run the new installer over it once (your progress stays).
+
 ## Opening it the first time
 
 The game isn't signed by a registered developer yet, so Windows and macOS each check it once before it opens.
@@ -31,6 +39,6 @@ Open an [issue](https://github.com/zefrtrogic/TennisSmash-Beta/issues) and say w
 
 ## This beta
 
-Version 0.1.0. Both builds were made on November 10, 2026, from the same game.
+Version 0.1.1. Both builds were made on November 11, 2026, from the same game.
 
 The sounds, textures, fonts and clothing come from other people, and are credited in [CREDITS.md](CREDITS.md).
