@@ -5,20 +5,22 @@ This page holds its beta downloads; the game's code isn't here.
 
 ## Download
 
-- [Windows](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Windows.zip)
-  (176 MB): Windows 10 or 11, 64-bit.
+- [Windows](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Setup.exe)
+  (120 MB installer): Windows 10 or 11, 64-bit. If you'd rather not install anything, get the
+  [zip](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Windows.zip) (176 MB) instead.
 - [Mac](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Mac.zip)
   (176 MB): macOS 12 or later, Apple silicon or Intel. Nobody has tried this build on a real Mac yet, so if it
   doesn't open or something looks wrong, please say so (see below).
 
-Unzip it and play. There's nothing to install.
+On Windows, the installer puts the game in the Start menu, can add a desktop shortcut, and needs no administrator.
+Remove it like any other app, in Settings > Apps. Running a newer installer updates the game in place.
 
 ## Opening it the first time
 
 The game isn't signed by a registered developer yet, so Windows and macOS each check it once before it opens.
 
-- Windows: unzip it and run `TennisSmash.exe`. If a blue "Windows protected your PC" box comes up, click More info,
-  then Run anyway.
+- Windows: run `TennisSmash-Setup.exe` (from the zip, unzip it and run `TennisSmash.exe`). If a blue "Windows
+  protected your PC" box comes up, click More info, then Run anyway.
 - Mac: unzip it and open TennisSmash. When the Mac says it can't check the app, click Done, then go to
   System Settings > Privacy & Security, click Open Anyway and confirm. On macOS 14 or earlier, Control-click the app
   and choose Open.
