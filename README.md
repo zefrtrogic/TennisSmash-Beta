@@ -39,6 +39,6 @@ Open an [issue](https://github.com/zefrtrogic/TennisSmash-Beta/issues) and say w
 
 ## This beta
 
-Version 0.1.1. Both builds were made on November 11, 2026, from the same game.
+Version 0.1.2. Both builds were made on November 12, 2026, from the same game.
 
 The sounds, textures, fonts and clothing come from other people, and are credited in [CREDITS.md](CREDITS.md).
