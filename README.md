@@ -9,8 +9,7 @@ This page holds its beta downloads; the game's code isn't here.
   (120 MB installer): Windows 10 or 11, 64-bit. If you'd rather not install anything, get the
   [zip](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Windows.zip) (176 MB) instead.
 - [Mac](https://github.com/zefrtrogic/TennisSmash-Beta/releases/latest/download/TennisSmash-Mac.zip)
-  (176 MB): macOS 12 or later, Apple silicon or Intel. Nobody has tried this build on a real Mac yet, so if it
-  doesn't open or something looks wrong, please say so (see below).
+  (176 MB): macOS 12 or later, Apple silicon or Intel.
 
 On Windows, the installer puts the game in the Start menu, can add a desktop shortcut, and needs no administrator.
 Remove it like any other app, in Settings > Apps. Running a newer installer updates the game in place.
