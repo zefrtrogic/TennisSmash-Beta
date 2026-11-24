@@ -17,10 +17,13 @@ Remove it like any other app, in Settings > Apps. Running a newer installer upda
 ## Updates
 
 From 0.1.1 on, the game tells you on its main menu when a new version is out. If you installed it with
-`TennisSmash-Setup.exe`, click Update now: it downloads the new version, closes, updates and opens again. With the
-zip or on a Mac, the button opens the downloads. Your progress always stays: it's saved outside the game's folder.
+`TennisSmash-Setup.exe`, click Update now: it downloads the new version, closes, updates and opens again. From 0.1.3 a Mac does the same,
+if the game is in your Applications folder (or anywhere you moved it to after unzipping). With the Windows zip, the
+button opens the downloads. Your progress always stays: it's saved outside the game's folder.
 
 Coming from 0.1.0? It can't update itself yet, so run the new installer over it once (your progress stays).
+On a Mac, games up to 0.1.2 can't update themselves either: download 0.1.3 from the website once, and move it to
+Applications.
 
 ## Opening it the first time
 
@@ -38,6 +41,6 @@ Open an [issue](https://github.com/zefrtrogic/TennisSmash-Beta/issues) and say w
 
 ## This beta
 
-Version 0.1.2. Both builds were made on November 12, 2026, from the same game.
+Version 0.1.3. Both builds were made on November 24, 2026, from the same game.
 
 The sounds, textures, fonts and clothing come from other people, and are credited in [CREDITS.md](CREDITS.md).
